@@ -3,8 +3,7 @@
 
 ### Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Bruno de Andrade Lima - 41528530 (Responsavel)
+* Jonatas Costa Nascimento - 41530241
+* Matheus Oliveira de Souza - 41526333
+* Renatha Maria Rolim de Andrade - 41583681
