@@ -1,8 +1,10 @@
 # Casos de uso
 
 ## CDU 001
-> Inserir Produtos
->Ator: Administrador 
+
+Inserir Produtos
+
+Ator: Administrador 
 
 ### Fluxo principal 001
 > Inserção de produtos consiste em permitir que o administrador faça inserção de produtos nos restaurantes cadastrados e persistencia na base de dados.
