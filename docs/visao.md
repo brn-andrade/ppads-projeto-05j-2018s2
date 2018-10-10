@@ -18,5 +18,4 @@
 * Angular 6
 * HTML / CSS / JavaScript
 * TypeScript
-* Ruby
-* BD Mysql
+* Node js
