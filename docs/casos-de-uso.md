@@ -10,6 +10,10 @@ Ator: Administrador
 
 > Inserção de produtos consiste em permitir que o administrador faça inserção de produtos nos restaurantes cadastrados e persistencia na base de dados.
 
+### Fluxo alternativo 001
+
+> Só é possivel cadastrar um restaurante se tiver pelo menos um produto do menu.
+
 ## CDU 002
 
 > Inserir Restaurantes
