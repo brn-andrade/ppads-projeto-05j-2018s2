@@ -1,0 +1,14 @@
+<div class="col-lg-offset-2 col-lg-8 col-xs-12">
+  <h4>Novo Restaurante</h4>
+  <hr>
+  <mt-restaurant-form></mt-restaurant-form>
+</div>
+
+<div class="col-lg-offset-2 col-lg-8 col-xs-12 text-center" style="margin-top: 50px">
+  <button type="button" class="btn btn-primary" [disabled]="service.formRestaurant.invalid" (click)="save()"><i class="fa fa-save"></i>
+    Salvar</button>
+</div>
+
+<pre>
+  {{service.formRestaurant.value | json}}
+</pre>
