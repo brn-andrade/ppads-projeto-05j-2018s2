@@ -1,6 +1,5 @@
 Universidade Presbiteriana Mackenzie
 Faculdade de Computação e Informática
-Bruno de Andrade Lima - 41528530
 
 ## UC1 – Inserir Restaurantes
 
