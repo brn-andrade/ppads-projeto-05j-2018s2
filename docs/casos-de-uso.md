@@ -17,12 +17,15 @@ Criticalidade: Média
 
 Condição de Entrada: Administrador seleciona opção de inserir Restaurante
 
+
 Fluxo Principal: 
+
 1. O sistema apresenta formulário para preenchimento dos detalhes
 do restaurante a ser cadastrado:
 - CNPJ (campo editável)
 - Nome (campo editável)
-- Estado (lista dos Estados brasileiros)
+- Estado (
+lista dos Estados brasileiros)
 - CEP (campo editável com validação)
 - Descrição (campo editável)
 - As opções Cadastrar e Cancelar
@@ -50,7 +53,9 @@ Freqüência de uso: Constante
 Criticalidade: Alta
 Condição de Entrada: O Cliente seleciona a opção Criar conta na tela inicial do APP.
 
+
 Fluxo Principal:
+
 1. O sistema apresenta formulário solicitando os dados de cadastro:
 - CPF (campo editável)
 - Nome (campo editável)
@@ -61,7 +66,9 @@ Fluxo Principal:
 - Senha (campo editável com permissão de até 8 caracteres)
 - As opções Cadastrar e Cancelar
 
+
 Fluxo Alternativo:
+
 1. O sistema apresenta uma opção para atualizar um restaurante
 existente:
 - Nome (campo editável)
@@ -90,7 +97,9 @@ Freqüência de uso: Eventual
 Criticalidade: Alta
 Condição de Entrada: O Cliente faz a busca do restaurante desejado e seleciona o produto desse restaurante
 
+
 Fluxo Principal: 
+
 1. O sistema apresenta uma lista com todos os restaurantes disponíveis para aquele cliente
 - A opção com campo editável para busca por nome do restaurante
 - Opção de Buscar
@@ -155,6 +164,7 @@ Fluxo Alternativo 2:
  > 11- Cliente clica em salvar.
  
  > 12- Sistema salva os dados do restaurante e apresenta na lista de opções.
+ 
  
  # Realizar um pedido
 > 1-Cliente acessa o site https://projeto-delivery.herokuapp.com/
