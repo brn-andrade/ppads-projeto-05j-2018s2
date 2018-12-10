@@ -131,7 +131,7 @@ Fluxo Alternativo 2:
 
 ## Cenarios:
 
- # Cenário de adicionar Restaurante
+ # Adicionar Restaurante
  > 1- Usuário acessa o sistema com login e senha de administrador.
  
  > 2- Sistema retorna restaurantes já cadastrados e opção de acesso para administrador.
@@ -156,7 +156,7 @@ Fluxo Alternativo 2:
  
  > 12- Sistema salva os dados do restaurante e apresenta na lista de opções.
  
- # Cenário de fazer um pedido
+ # Realizar um pedido
 > 1-Cliente acessa o site https://projeto-delivery.herokuapp.com/
 
  > 2-Cria o seu usuario de login ou já faz o login (caso tenha um cadastro criado)
