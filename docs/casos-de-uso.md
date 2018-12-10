@@ -132,28 +132,51 @@ Fluxo Alternativo 2:
 ## Cenarios:
 
  # Cenário de adicionar Restaurante
-> 1- Usuário acessa o sistema com login e senha de administrador.
+ > 1- Usuário acessa o sistema com login e senha de administrador.
+ 
  > 2- Sistema retorna restaurantes já cadastrados e opção de acesso para administrador.
+ 
  > 3- Usuário seleciona a opção de administrador do sistema.
+ 
  > 4- Sistema retorna opções de adicionar restaurantes, editar restaurantes e adicionar uma nova categoria.
+ 
  > 5- Cliente clica em adicionar restaurante.
+ 
  > 6- Sistema apresenta um formulário para preenchimento dos dados do novo restaurante (nome, categoria, logo etc).
+ 
  > 7- Cliente clica no botão de adicionar produto para adicionar as opções do menu.
+ 
  > 8- Sistema retorna formulário para preenchimento dos dados do item.
+ 
  > 9- Cliente clica em salvar produto.
+ 
  > 10- Sistema salva o produto.
+ 
  > 11- Cliente clica em salvar.
+ 
  > 12- Sistema salva os dados do restaurante e apresenta na lista de opções.
+ 
  # Cenário de fazer um pedido
 > 1-Cliente acessa o site https://projeto-delivery.herokuapp.com/
+
  > 2-Cria o seu usuario de login ou já faz o login (caso tenha um cadastro criado)
+ 
  > 3-Seleciona o restaurante que deseja
+ 
  > 4-Adiciona a comida ao carrinho e fecha o pedido
+ 
  > 5-Informa seus dados
+ 
  > 6-Informa o endereço de entrega
+ 
  > 7-Verifica os itens do pedido
+ 
  > 8-Seleciona a forma de pagamento
+ 
  > 9-Analisa o valor total da compra + frete de entrega
+ 
  > 10-Conclui o pedido
+ 
  > 11-Avalia a experiencia
+ 
  > 12-Desloga do sistema
